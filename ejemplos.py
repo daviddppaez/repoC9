@@ -1,5 +1,6 @@
 # 2. Par o impar
 # Pide un número al usuario y determina si es par o impar usando if.
+# Archivo de Johana Usaquen
 
 print('Vamos a descubrir si el número es par o impar')
 
@@ -10,3 +11,4 @@ if num % 2 == 0:
 else:
     print('El número ingresado NO es par :(')
 
+# Agregro
